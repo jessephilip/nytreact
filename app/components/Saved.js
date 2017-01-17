@@ -1,7 +1,7 @@
 // Include React
 var React = require("react");
 
-var Chat = React.createClass({
+var Saved = React.createClass({
 
   // Here we render the component
   render: function() {
@@ -35,4 +35,4 @@ var Chat = React.createClass({
 });
 
 // Export the component back for use in other files
-module.exports = Chat;
+module.exports = Saved;
